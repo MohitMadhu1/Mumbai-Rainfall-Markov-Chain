@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Raw IMD downloads (~1 GB) - re-fetch with download_data.py
+data/raw/
+data/ghcnd-stations.txt
+data/download.log
+
+# Generated bundles - rebuild with build_latex.py / make_drive_zip.py
+*.zip
+report_draft.docx

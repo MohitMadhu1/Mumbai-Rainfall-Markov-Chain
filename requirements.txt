@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+matplotlib
+networkx
+jupyter
+# only needed to re-download the raw IMD data (download_data.py / prepare_data.py)
+imdlib
